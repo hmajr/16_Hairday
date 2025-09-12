@@ -1,4 +1,6 @@
 "use strict"
+//lib import
+import "./libs/dayjs.js"
 
 // CSS
 import "./styles/global.css"
